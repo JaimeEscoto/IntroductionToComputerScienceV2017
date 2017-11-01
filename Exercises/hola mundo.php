@@ -8,6 +8,7 @@
     <h2>Mi primer ejercicio en PHP</h2>
     <?php
       echo "Hola Mundo";
+      echo "Hi World";
     ?>
   </body>
 </html>
